@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dougisnotavailable
 - 👀 I’m interested in data science and data analysis. 
 - 🌱 I’m currently learning Python and R.
-- 💞️ I’m looking to collaborate on hackathons and finding a junior position.
+- 💞️ I’m looking to collaborate on hackathons and finding new opportunities.
 - 📫 How to reach me https://www.linkedin.com/in/douglas-silva-8a02b562/
 
 <!---
